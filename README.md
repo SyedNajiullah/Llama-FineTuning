@@ -27,5 +27,3 @@ Install the required Python packages (adjust versions as needed):
 - `bitsandbytes` (if using 4-bit or 8-bit quantization)
 - `sentencepiece`
 
-Example installation:
-
